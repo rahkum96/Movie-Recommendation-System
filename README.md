@@ -27,6 +27,10 @@ Just run `jupyter notebook` in terminal and it will run in your browser.
 
 Install Jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html) i've you haven't.
 
+## Steps to run this notebook in your system:
+- Clone or download the repo.
+- Open command prompt in the downloaded folder.
+
 
 ## Data set:
 - The MovieLens DataSet 
