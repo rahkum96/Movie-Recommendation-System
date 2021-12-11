@@ -9,8 +9,9 @@ We will focus on providing a basic recommendation system in this notebook by rec
 
 ## Approach:
 - Here I have used two recommendation system
-- - Correlation
-- - Cosine simalarity 
+  - Correlation 
+  - Cosine simalarity 
+ 
 
 ## Dependencies
 ``` 
@@ -19,8 +20,7 @@ We will focus on providing a basic recommendation system in this notebook by rec
  Scikit-Learn
  Numpy
  python 3.9
- 
-```
+ ```
 ## Usage
 
 Just run `jupyter notebook` in terminal and it will run in your browser.
