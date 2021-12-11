@@ -12,7 +12,7 @@ We will focus on providing a basic recommendation system in this notebook by rec
   - Correlation:
   - Cosine simalarity :
     - Similarity is the cosine of the angle between the 2 vectors of the item vectors of A and B
-    - Similarity is the cosine of the angle between the 2 vectors of the item vectors of A and B
+    - Closer the vectors, smaller will be the angle and larger the cosine
     
 ## Dependencies
 ``` 
