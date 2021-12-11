@@ -4,7 +4,7 @@ In this implementation, when the user searches for a movie we will recommend the
 
 ![image](https://user-images.githubusercontent.com/86415241/145664296-1cdc0712-dc89-442c-ad51-845355237514.png)
 
-## About
+## About 
 We will focus on providing a basic recommendation system in this notebook by recommending items that are most similar to a specific item, in this case, movies. Keep in mind that this is not a complete recommendation system; to put it another way, it simply shows you which movies/items are most similar to the one you selected.
 
 ## Approach:
