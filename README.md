@@ -1,6 +1,6 @@
 # Movie-Recommendation-System 
 
-In this implementation, when the user searches for a movie we will recommend the top 5 similar movies using our movie recommendation system.
+In this implementation, when the user searches for a movie we will recommend the top 5 similar movies using our movie recommendation system. 
 
 ![image](https://user-images.githubusercontent.com/86415241/145664296-1cdc0712-dc89-442c-ad51-845355237514.png)
 
